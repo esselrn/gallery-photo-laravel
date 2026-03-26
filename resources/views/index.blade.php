@@ -56,7 +56,7 @@
 </div>
 
 <div class="d-flex justify-content-center mt-4">
-    {{ $photos->links() }}
+    {{ $photos->links() }}git 
 </div>
 @endif
 
